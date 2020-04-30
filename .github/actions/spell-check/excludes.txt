@@ -1,0 +1,10 @@
+^LICENSE$
+^pkg/chunkenc/testdata/testdata\.go$
+^pkg/logql/expr\.y\.go$
+\.ico$
+\.pgp$
+\.png$
+(?:^|/)go\.mod$
+(?:^|/)go\.sum$
+(?:^|/)vendor/
+^\.github/actions/spell-check/

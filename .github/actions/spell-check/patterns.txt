@@ -1,0 +1,8 @@
+data:[a-zA-Z=;,/0-9+]+
+https://(?:(?:www\.|)youtube\.com|youtu.be)/[-a-zA-Z0-9?&=]*
+(?:0[Xx]|U\+|#)[a-f0-9A-FGgRr]{2,}[Uu]?[Ll]?\b
+\{[0-9A-FA-F]{8}-(?:[0-9A-FA-F]{4}-){3}[0-9A-FA-F]{12}\}
+\b([A-Za-z])\1{3,}\b
+
+# This misspelling was fixed and exists to document its previous existence
+defaul_validity
